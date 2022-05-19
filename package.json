@@ -16,10 +16,7 @@
     "clean": "gts clean",
     "compile": "tsc",
     "fix": "gts fix",
-    "prepublish": "yarn version && yarn build",
-    "prepare": "npm.cmd run compile",
-    "pretest": "npm.cmd run compile",
-    "posttest": "npm.cmd run lint"
+    "prepublish": "yarn version && yarn build"
   },
   "keywords": [],
   "author": "",

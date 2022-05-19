@@ -1,1 +1,0 @@
-export { validateIdCard } from './card';

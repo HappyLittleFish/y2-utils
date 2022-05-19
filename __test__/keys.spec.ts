@@ -1,4 +1,4 @@
-import { keys } from './keys';
+import { keys } from '../src/object/keys';
 
 describe('Test for keys', () => {
   it('should return keys of array', () => {

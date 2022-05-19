@@ -1,1 +1,0 @@
-export { getLocation } from './location';

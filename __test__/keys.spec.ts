@@ -8,4 +8,8 @@ describe('Test for keys', () => {
   it('should return keys of object', () => {
     expect(keys({ a: 'x', b: 'y', c: 'z' })).toEqual(['a', 'b', 'c']);
   });
+
+  it('should return keys of object', () => {
+    expect(keys({ name: 'young', age: 18, sex: 'man' })).toEqual(['name', 'age', 'sex']);
+  });
 });

@@ -1,1 +1,1 @@
-export { getDay, getYear } from './format';
+export { formatDate } from './format';

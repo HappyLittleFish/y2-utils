@@ -17,6 +17,7 @@
         "varsIgnorePattern": "^_"
       }
     ],
+    "@typescript-eslint/explicit-module-boundary-types": "off",
     "no-unused-vars": "off",
     "no-console": "warn",
     "semi": "warn",

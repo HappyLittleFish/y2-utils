@@ -1,3 +1,3 @@
 export function getLocation() {
-  return 12345
+  return 12345;
 }

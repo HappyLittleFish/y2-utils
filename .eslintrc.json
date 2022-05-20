@@ -19,7 +19,6 @@
     ],
     "no-unused-vars": "off",
     "no-console": "warn",
-    "space-before-function-paren": "warn",
     "semi": "warn",
     "quotes": ["warn", "single"]
   }

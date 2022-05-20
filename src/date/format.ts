@@ -3,5 +3,5 @@ export function getDay() {
 }
 
 export function getYear() {
-  return new Date().getFullYear()
+    return new Date().getFullYear()
 }

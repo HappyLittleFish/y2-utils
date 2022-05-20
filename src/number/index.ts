@@ -1,1 +1,1 @@
-export { add, minus } from './calc'
+export { add, minus } from './calc';

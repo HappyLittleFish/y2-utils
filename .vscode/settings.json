@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "typescript.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "jest.pathToJest": "npm test --",
+  "files.eol": "\n",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}

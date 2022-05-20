@@ -7,6 +7,7 @@ module.exports = {
     "ts",
     "js"
   ],
+  // testEnvironment: "jsdom"
   // transform: {
   //   "^.+\\.(t|j)sx?$": "ts-jest"
   // },

@@ -1,1 +1,1 @@
-export { validateIdCard } from './card'
+export { validateIdCard } from './card';
